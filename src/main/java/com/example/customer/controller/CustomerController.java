@@ -41,8 +41,11 @@ public class CustomerController {
         //10.
 
         //11.
+<<<<<<< HEAD
 
         //12.
+=======
+>>>>>>> d1c1541 (커밋테스트2)
         return "customerId is yongpark";
     }
 }
