@@ -16,36 +16,11 @@ public class CustomerController {
     {
         System.out.println("customerId start");
 
+        //1
+        //2
+        //3
+        //4
 
-
-
-
-        //1.
-
-        //2.
-
-        //3.
-
-        //4.
-
-        //5.
-
-        //6.
-
-        //7.
-
-        //8.
-
-        //9.
-
-        //10.
-
-        //11.
-<<<<<<< HEAD
-
-        //12.
-=======
->>>>>>> d1c1541 (커밋테스트2)
         return "customerId is yongpark";
     }
 }
