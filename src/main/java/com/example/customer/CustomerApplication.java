@@ -16,20 +16,5 @@ public class CustomerApplication extends SpringBootServletInitializer {
     @Override
     protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
         return builder.sources(CustomerApplication.class);
-        //
-
-        //
-        //
-        //
-
-        //
-        //
-        
-        //박용구
-        //123
-        //456
-        //444
-
-        //555
     }
 }
